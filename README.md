@@ -18,5 +18,5 @@ It's hard to keep track of all the candidates that have already announced their 
 |Result|
 
 | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/707/datas/original.png) | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/684/datas/original.png) |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | Democrat contenders | Republican contender |
