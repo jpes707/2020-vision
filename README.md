@@ -8,3 +8,11 @@ It's hard to keep track of all the candidates that have already announced their 
 
 * Devpost (HackTJ, April 2019): https://devpost.com/software/sai-pranav/
 * Creators: Kevin Liu, John Pesavento, Jason Xu, Zach Zobair
+
+| ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/664/datas/original.PNG) | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/665/datas/original.PNG) | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/666/datas/original.PNG) |
+|:---:|:---:|:---:|
+| Quiz screen 1 | Quiz screen 2 | Quiz screen 3 |
+
+| ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/678/datas/original.PNG) | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/707/datas/original.png) | ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/792/684/datas/original.png) |
+|:---:|:---:|:---:|
+| Quiz screen 4 | Democrat contenders matrix, pressing on their images directs you to their platforms | Republican frontrunner (current president), pressing on his image directs you to his platform |
